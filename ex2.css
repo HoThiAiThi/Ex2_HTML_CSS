@@ -1,0 +1,221 @@
+body {
+    display: flex;
+    width: 1583px;
+    flex-direction: column;
+    align-items: center;
+    gap: 51px;
+    background: #fff;
+}
+.light_CTA_3 {
+    display: flex;
+    width: 1107px;
+    padding: 62px 199px;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background: #fff;
+}
+.content_cta_3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 59px;
+    width: 474px;
+}
+.text_content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 7px;
+    width: 377px;
+}
+.seconde_headline {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    gap: 10px;
+    width: 268px;
+    height: 77px;
+}
+h2 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+}
+.item_content {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    gap: 10px;
+    width: 377px;
+    height: 47px;
+}
+.item_content p {
+    color: #5c5c5c;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.2px;
+}
+.mailing_input {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+input {
+    display: flex;
+    height: 52px;
+    width: 284px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 6px;
+    border: 1px solid #d0d0d0;
+    background: #efefef;
+    color: #5c5c5c;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}
+button {
+    display: flex;
+    height: 52px;
+    padding: 20px 36px;
+    align-items: center;
+    border-radius: 39px;
+    background: #03d6f3;
+    box-shadow: 0px 4px 31px 0px rgba(0, 0, 0, 0.15);
+    color: var(--light-text, #fff);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.2px;
+    border: 1px solid #03d6f3;
+}
+.light_footer_3 {
+    display: flex;
+    padding: 62px 86px;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    align-self: stretch;
+    background: #112d57;
+}
+.content_footer {
+    display: flex;
+    align-items: center;
+    gap: 87px;
+    height: 247px;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 56px;
+    height: 215px;
+    width: 317px;
+}
+.column_row {
+    display: flex;
+    align-items: center;
+    gap: 75px;
+    height: 141px;
+}
+.list {
+    display: flex;
+    width: 121px;
+    flex-direction: column;
+    align-items: center;
+}
+.list div {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    gap: 10px;
+}
+a {
+    color: #fff;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.2px;
+    width: 125px;
+    text-decoration: none;
+}
+.subtitle {
+    display: flex;
+    padding: 0px 10px;
+    align-items: center;
+    gap: 10px;
+}
+.subtitle p {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0.1px;
+}
+.map {
+    display: flex;
+    width: 334px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.map img {
+    height: 247px;
+    align-self: stretch;
+    border-radius: 22px;
+}
+.row {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+.block {
+    display: flex;
+    align-items: center;
+}
+.block img {
+    width: 46px;
+    height: 46px;
+}
+.item_content2 {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    gap: 10px;
+}
+.item_content2 p {
+    color: #fff;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.2px;
+}
+.social_media {
+    display: flex;
+    padding: 20px 0px;
+    align-items: center;
+    gap: 24px;
+}
+.social_media img {
+    width: 40.987px;
+    height: 40.987px;
+}
